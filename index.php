@@ -282,6 +282,7 @@ function test_input($data) {
 <?php
 echo "<h2>Your Input:</h2>";
 echo $name;
+echo "Hallo Allemaal";
 echo "<br>";
 echo $email;
 echo "<br>";
